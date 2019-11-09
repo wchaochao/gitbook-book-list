@@ -1,0 +1,27 @@
+{
+  "name": "gitbook-book-list",
+  "version": "1.0.0",
+  "description": "书单",
+  "main": "index.js",
+  "scripts": {
+    "init": "gitbook init",
+    "build": "gitbook build",
+    "serve": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wchaochao/gitbook-book-list.git"
+  },
+  "keywords": [
+    "gitbook"
+  ],
+  "author": "wchaochao",
+  "bugs": {
+    "url": "https://github.com/wchaochao/gitbook-book-list/issues"
+  },
+  "homepage": "https://github.com/wchaochao/gitbook-book-list#readme",
+  "devDependencies": {
+    "gitbook": "^3.2.2",
+    "gitbook-cli": "^2.3.0"
+  }
+}
