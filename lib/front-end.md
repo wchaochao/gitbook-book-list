@@ -4,17 +4,23 @@
 
 ---
 
-## 前端入门
+## HTML
 
 * Head First HTML and CSS（已完成）
-* JavaScript DOM编程艺术
+* SVG
+* HTML标准
+* CSS标准
 
-## 前端基础
+## CSS
 
 * CSS权威指南（已完成）
 * 精通css:高级web标准解决方案（已完成）
 * CSS揭秘（已完成）
 * CSS世界
+
+## JavaScript
+
+* JavaScript DOM编程艺术
 * JavaScript高级程序设计
 * JavaScript权威指南
 * 精通JavaScript（已完成）
@@ -23,7 +29,7 @@
 * 你不知道的JavaScript
 * ES6入门
 
-## 前端专题
+## JavaScript专题
 
 * JavaScript设计模式
 * JavaScript模式
@@ -33,24 +39,41 @@
 * 高性能网站建设指南（已完成）
 * 高性能网站建设进阶指南（已完成）
 
-## 前端标准
+## JavaScript标准
 
-* HTML标准
-* CSS标准
 * ECMAScript5.1标准（已完成）
 * ECMAScript2019标准
+
+## 浏览器
+
 * DOM标准
 * BOM标准
 
-## 前端扩展
+## NodeJS
 
 * NodeJS入门
-* webpack
 
-## 源码分析
+## 前端工具
 
-* Zepto源码
-* Jquery源码
+* babel源码
+* eslint源码
+* jsdoc源码
+* webpack源码
+* requireJS源码
+* SeaJS源码
+
+## JavaScript库
+
 * Underscore源码
 * Lodash源码
+* Zepto源码
+* Jquery源码
+* axios源码
+
+## Vue
+
 * Vue源码
+* snabbdom源码
+* Vuex源码
+* Vue-Router源码
+* Element-ui源码
